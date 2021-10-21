@@ -21,9 +21,9 @@
 
 📫 How to reach me ...
 
-My Gmail ! [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018102173@khu.ac.kr)](mailto:2018102173@khu.ac.kr)
+**My Gmail !** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018102173@khu.ac.kr)](mailto:2018102173@khu.ac.kr)
 
-My Blog ! [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://sumin0.tistory.com/)](https://sumin0.tistory.com/)
+**My Blog !** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://sumin0.tistory.com/)](https://sumin0.tistory.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeap&&show_icons=true&theme=flag-india)
 
