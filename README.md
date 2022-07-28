@@ -1,20 +1,9 @@
 👋 Hi, I’m sumin ! 
 
-<br/>
-
-👀 My interest !
-
-  + Cloud service
-  + Computer security
-  + Back-end
- 
-<br/>
-
 
 🌱 I’m currently learning !
 
   + Cloud service
-  + Front-end
   + Back-end
 
 <br/>
