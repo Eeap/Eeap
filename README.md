@@ -1,11 +1,11 @@
 
-🌱
-  + Cloud service
-  + Back-end
-
+🌱 <b>Interesting!!</b> <br>
+  <b>Back-End</b> <br>![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br>
+  <b>Cloud</b> <br>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
 <br/>
 
-📫 Contact
+📫 <b>Contact</b>
 
 **My Gmail !** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018102173@khu.ac.kr)](mailto:2018102173@khu.ac.kr)
 
