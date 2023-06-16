@@ -17,7 +17,7 @@
   ## Activities
   * 2022.7 ~ : AUSG 6th member
   * 2023.1 ~ 2023.6: NHN cloud Infra tech intern
-  * 2023.6 ~ : AWS Cloub Clubs Captain
+  * 2023.6 ~ : AWS Cloud Clubs Captain
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
