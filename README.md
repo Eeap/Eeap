@@ -24,7 +24,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
     [![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/Eeap/)](https://www.linkedin.com/in/Eeap/)
-    [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat&logo=notion&logoColor=white&link=https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-dbc491e2b0aa4ed68cb78612a7f5ea79?pvs=4)](https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-dbc491e2b0aa4ed68cb78612a7f5ea79?pvs=4)
+    [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat&logo=notion&logoColor=white&link=https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-da91d44e69554b52a710ffb370d0949a?pvs=4)](https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-da91d44e69554b52a710ffb370d0949a?pvs=4)
   <div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeap&&show_icons=true&theme=flag-india)
