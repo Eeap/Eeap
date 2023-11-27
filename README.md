@@ -20,6 +20,7 @@
   * 2023.1 ~ 2023.6: NHN cloud Infra tech Intern
   * 2023.6 ~ : AWS Cloud Clubs Captain
   * 2023.9 ~ : Cloud Club 4th Member
+  * 2023.9 ~ : OpenSource team of KHU SW Membership
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
