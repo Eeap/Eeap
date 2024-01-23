@@ -17,16 +17,17 @@
  
   ## Activities
   * 2022.7 ~ : AUSG 6th member
-  * 2023.1 ~ 2023.6: NHN cloud Infra tech Intern
+  * 2023.1 ~ 2023.6: NHN Cloud Infra tech Intern
   * 2023.6 ~ : AWS Cloud Clubs Captain
   * 2023.9 ~ : Cloud Club 4th Member
   * 2023.9 ~ : OpenSource team of KHU SW Membership
+  * 2024.1 ~ : NHN Cloud Data Engineer Part-Time
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
     [![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/Eeap/)](https://www.linkedin.com/in/Eeap/)
     [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat&logo=notion&logoColor=white&link=https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-da91d44e69554b52a710ffb370d0949a?pvs=4)](https://decorous-canary-051.notion.site/Eeap-Sumin-Kim-da91d44e69554b52a710ffb370d0949a?pvs=4)
-    [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white&link=https://www.meetup.com/aws-cloud-club-kyung-hee-university/)](https://www.meetup.com/aws-cloud-club-kyung-hee-university/)
+    [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white&link=https://www.meetup.com/aws-cloud-club-in-south-korea/)](https://www.meetup.com/aws-cloud-club-in-south-korea/)
   <div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeap&&show_icons=true&theme=flag-india)
