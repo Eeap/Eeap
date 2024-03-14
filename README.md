@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
  
   ## Activities
-  * 2022.7 ~ : AUSG 6th member
+  * 2022.7 ~ 2023.6: AUSG 6th member
   * 2023.1 ~ 2023.6: NHN Cloud Infra tech Intern
-  * 2023.6 ~ : AWS Cloud Clubs Captain
-  * 2023.9 ~ : Cloud Club 4th Member
-  * 2023.9 ~ : OpenSource team of KHU SW Membership
-  * 2024.1 ~ : NHN Cloud Data Engineer Part-Time
+  * 2023.6 ~ 2024.6: AWS Cloud Clubs Captain
+  * 2023.9 ~ 2023.12: Cloud Club 4th Member
+  * 2023.9 ~ 2024.2: OpenSource team of KHU SW Membership
+  * 2024.1 ~ 2024.2 : NHN Cloud Data Engineer Part-Time
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
