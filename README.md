@@ -29,6 +29,7 @@
   * 2023.9 ~ 2024.2: OpenSource team of KHU SW Membership
   * 2024.1 ~ 2024.2 : NHN Cloud Data Engineer Part-Time
   * 2024.3 ~ : AWS Community Builders in Container
+  * 2024.7 ~ : AWS Cloud Support Associate
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:sumink0903@gmail.com)](mailto:sumink0903@gmail.com)
    [![Tech Blog Badge](http://img.shields.io/badge/Blog-white?style=flat&logo=Tistory&logoColor=black&link=https://suminn0.tistory.com/)](https://suminn0.tistory.com/)
